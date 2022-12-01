@@ -2,4 +2,4 @@
 Location for my Python based projects
 
 
-- [Linear Regression](www.ismaelisak.com)
+- [Linear Regression](https://github.com/ismaelisak/Python-Projects/tree/main/Linear%20Regression)
