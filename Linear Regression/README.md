@@ -10,5 +10,6 @@ Wine quality can be a very subjective measure, some people like one type of wine
 
 ## Dataset:
 
-[Wine Quality](https://archive.ics.uci.edu/dataset/186/wine+quality)
+[Wine Quality UCI Database](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
+[Raw csv file](https://github.com/ismaelisak/Python-Projects/blob/main/Linear%20Regression/winequality.csv)
