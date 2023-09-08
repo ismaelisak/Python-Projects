@@ -6,7 +6,7 @@ You've seen $y = mx + b$ before where $m$ is the slope, $b$ is the intercept, an
 
 ## The Problem:
 
-Wine quality can be a very subjective measure, some people like one type of wine over another for countless reasons. [Using data provided by this excellent paper](https://repositorium.sdum.uminho.pt/bitstream/1822/10029/1/wine5.pdf) we can begin to isolate the most important factors when it comes to wine.
+Finding linear patterns in the AmesHousing dataset.
 
 ## Dataset:
 
